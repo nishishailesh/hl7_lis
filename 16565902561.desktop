@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HL7
+Comment=
+Exec=/root/hl7/hapi-testpanel-2.0.1/testpanel.sh
+Icon=
+Path=
+Terminal=false
+StartupNotify=false
